@@ -4,7 +4,7 @@ Sistema Tributário Original de Navegação Keep Simple
 
 Projeto criado para o challenge de 2021 da fiap.
 
-### | Number | Participantes                                                             |
+| Number | Participantes                                                             |
 | ------ | ------------------------------------------------------------------------------- |
 |  001   | Alineskamo|
 |  002   | José junior|
