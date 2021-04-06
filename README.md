@@ -2,7 +2,7 @@
 
 Sistema Tributário Original de Navegação Keep Simple
 
-Projeto criado para o challenge de 2021 da fiap.
+Projeto criado para o challenge de 2021 da FIAP em parceria com o TCESP.
 
 | Number | Participantes                                                             |
 | ------ | ------------------------------------------------------------------------------- |
